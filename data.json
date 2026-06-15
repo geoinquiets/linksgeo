@@ -13,10 +13,10 @@
   },
   "links": [
     {
-      "id": "twitter",
-      "icon-simpleicons": "x",
-      "title": "Twitter",
-      "link": "https://x.com/LinksGeo"
+      "id": "githubpages",
+      "icon-simpleicons": "githubpages",
+      "title": "Rafagas",
+      "link": "https://geoinquiets.github.io/rafagas/"
     },
     {
       "id": "telegram",
